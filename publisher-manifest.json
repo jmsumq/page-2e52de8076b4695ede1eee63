@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "36b9cdac4e79f8cf84363179",
+  "owner": "jmsumq",
+  "repo": "page-2e52de8076b4695ede1eee63",
+  "title": "次元链接(cylink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2e52de8076b4695ede1eee63",
+      "a": "次元链接(cylink)",
+      "b": "",
+      "entity": "次元链接(cylink)",
+      "brand": "次元链接(cylink)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3bd11668caa820f7ec95bf74478e32da4fabdb62626074bc28271c08fdc17fbd",
+      "content": {
+        "keyword1": "次元链接(cylink)",
+        "keyword2": "",
+        "primary_entity": "次元链接(cylink)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "次元链接(cylink)是面向个人与团队的网络加速服务官网，提供稳定机场订阅、多平台客户端下载以及流媒体与游戏加速支持，助您安全高效访问全球网络。",
+          "AI_DESCRIPTION": "次元链接(cylink)是面向个人与团队的网络加速服务官网，提供稳定机场订阅、多平台客户端下载以及流媒体与游戏加速支持，助您安全高效访问全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071422;color:#e6f1fb;font-size:16px;line-height:1.7}a{color:#22d3ee;text-decoration:none}header{background:#0a1f38;padding:14px 16px;border-bottom:1px solid #155e75}header .inner,main,footer .inner{max-width:800px;margin:0 auto}.logo{font-size:1.2rem;font-weight:700;color:#67e8f9;margin-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:0.92rem}main{padding:18px 16px 36px}h1{font-size:1.62rem;color:#ffffff;line-height:1.35;margin:8px 0 14px}h2{font-size:1.28rem;color:#67e8f9;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #164e63}h3{font-size:1.05rem;color:#a5f3fc;margin:14px 0 8px}p{margin-bottom:10px}ul,ol{padding-left:1.2em;margin-bottom:12px}li{margin-bottom:6px}.lead{color:#cbd5e1;margin-bottom:16px}.plan{background:#0c2744;border:1px solid #1e3a5f;border-radius:8px;padding:16px;margin-bottom:14px}.plan.featured{border-color:#22d3ee}.name{font-weight:700;font-size:1.12rem;color:#fff}.price{font-size:1.35rem;color:#22d3ee;margin:6px 0 2px}.annual{font-size:0.9rem;color:#94a3b8;margin-bottom:8px}.badge{display:inline-block;background:#0891b2;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-left:6px}details{background:#0c2744;border:1px solid #1e3a5f;border-radius:6px;padding:10px 14px;margin-bottom:10px}summary{font-weight:600;color:#67e8f9}details p{margin-top:8px;color:#d8e6f2}.steps li{margin-bottom:14px}footer{background:#061018;color:#94a3b8;font-size:0.88rem;padding:20px 16px;border-top:1px solid #164e63}.sitemap{display:flex;flex-wrap:wrap;gap:8px 12px;margin-bottom:12px}.friends a{display:inline-block;margin:0 12px 8px 0}section{word-wrap:break-word;overflow-wrap:break-word}</style><header><div class=\"inner\"><div class=\"logo\">次元链接 cylink 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#steps\">操作步骤</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#friends\">友链</a></nav></div></header><main><h1>次元链接(cylink) 官方网站：VPN 加速器与机场订阅下载</h1><p class=\"lead\">次元链接(cylink)提供可订阅的网络加速服务，把机场节点、多端客户端与流媒体、游戏场景放在同一套说明里，方便你从选套餐到导入订阅一次完成。</p><section id=\"intro\"><h2>品牌简介</h2><p>次元链接（cylink）是面向个人用户与小团队的网络加速品牌。我们以机场订阅的方式交付节点，而不是把复杂协议堆给用户。你购买套餐后获得订阅地址，再导入 Clash、Shadowrocket、v2rayN 等常用客户端，即可按地区与用途切换线路。</p><p>服务定位是稳定跨境访问、基础隐私保护和可预期的流量配额。节点池覆盖亚太、北美与欧洲常见出口，部分线路提供 IPLC 专线用于游戏与实时通讯。官网只公布正规订阅与客户端指引，请核对域名后再登录，避免仿冒下载页。</p><p>无论你是第一次接触梯子，还是已经在用加速器，只要按本页的套餐对比、纵向步骤和 FAQ 操作，就能完成从开通到连上节点的全过程。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与资料查阅</h3><p>需要访问海外文档、代码仓库、会议系统或学术数据库时，选择延迟更低的区域节点即可。基础版已能覆盖日常网页与轻量协作，旗舰版更适合长时间在线与多设备切换。</p><h3>流媒体与内容创作</h3><p>观看或核对海外影视、音乐与公开课，优先使用标注解锁的节点。旗舰版与团队版强调全节点原生流媒体能力，减少因地区限制导致的反复换线。</p><h3>国际游戏与实时通讯</h3><p>对延迟敏感的对战与语音，可走 IPLC 优化线路。团队版额外提供高带宽 VIP 节点，适合工作室多人同时在线。实际延迟仍取决于本地运营商与目标区服，建议在客户端内测速后固定常用节点。</p></section><section id=\"plans\"><h2>套餐对比：按流量、设备与线路选购</h2><p>以下为官网当前固定方案。月付便于试用，年付可降低综合成本。请按同时在线设备数与是否需要游戏专线、流媒体解锁来选择，而不是只看单价。</p><article class=\"plan\"><div class=\"name\">基础版</div><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><div class=\"name\">旗舰版<span class=\"badge\">重点推荐</span></div><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><div class=\"name\">团队版</div><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"steps\"><h2>快速开始：纵向操作步骤</h2><ol class=\"steps\"><li><h3>对照场景选定套餐</h3><p>轻度浏览选基础版；日常视频、多设备与游戏选旗舰版；多人共享或需要定制路由选团队版。确认设备数量不超过额度。</p></li><li><h3>在官网完成订阅</h3><p>通过官方网站下单并支付后，进入用户中心复制订阅链接。不要把链接发到公开群组，以免被盗用流量。</p></li><li><h3>下载对应系统客户端</h3><p>按下一节说明选择 Windows、macOS、Android 或 iOS 客户端。只使用官网推荐的正式版本，避免修改包。</p></li><li><h3>导入订阅并更新节点</h3><p>在客户端粘贴订阅地址，执行更新。确认出现香港、日本、新加坡、美国等分组后再继续。</p></li><li><h3>选择节点并开启系统代理</h3><p>网页浏览可选邻近中转；流媒体选解锁节点；游戏选 IPLC。连接后用目标站点验证，必要时更换线路。</p></li></ol></section><section id=\"clients\"><h2>客户端下载与操作说明</h2><p>次元链接机场订阅兼容主流代理协议，不绑定单一 App。官方下载入口在用户中心，登录后可查看当前推荐版本说明。下列为常用组合，具体安装包请以官网当时公布为准。</p><h3>桌面端：Windows 与 macOS</h3><p>Windows 常用 v2rayN 或 Clash Verge Rev；macOS 常用 Clash Meta 系客户端或 Surge。导入订阅后开启系统代理，浏览器无需再装插件。若公司电脑已有其他代理软件，请先退出以免端口冲突。</p><h3>移动端：Android 与 iOS</h3><p>Android 可使用 Clash Meta for Android 或兼容的 Hiddify；iOS 可使用 Shadowrocket、Stash 等。蜂窝网络与 Wi-Fi 切换后如出现无法连接，更新一次订阅并重新选择节点即可。</p><h3>日常维护</h3><p>节点会不定期调整，建议每周更新订阅。流量将尽时客户端可能变慢，属配额机制而非线路故障。旗舰版用户可通过优先工单反馈异常节点，团队版可申请定制分流规则，把办公域名与娱乐流量分开。</p></section><section id=\"nodes\"><h2>线路与性能说明</h2><p>节点按地区与用途分组，普通中转适合网页与即时通讯，专线更适合游戏与大文件。我们不在页面上罗列瞬时测速数字，以免造成误导；可用性以用户中心实时列表为准。合理用法是：先连邻近节点确认认证成功，再按任务切换解锁或 IPLC 分组。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>次元链接机场订阅是什么？新手如何开通？</summary><p>次元链接(cylink)用订阅制交付代理节点。你按套餐获得流量与设备额度，在用户中心复制订阅地址，导入 Clash、Shadowrocket、v2rayN 等客户端后即可选节点连接。本页是官网说明，请从正规渠道注册与支付。</p></details><details><summary>官方客户端在哪里下载？如何避免装到仿冒包？</summary><p>请登录官网用户中心查看各系统推荐客户端。我们不通过来路不明的网盘分发核心安装包。下载后核对包名与更新日志，不要开启未知来源的“破解加速器”。</p></details><details><summary>三个套餐怎么选？旗舰版适合谁？</summary><p>基础版适合轻度浏览和少量视频；旗舰版提供更大流量、五台设备、全节点流媒体解锁和 IPLC 游戏优化，并含优先工单，适合每天使用的个人；团队版面向工作室与多人共享。完整项目见上方套餐对比。</p></details><details><summary>流量、设备数和重置周期如何计算？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。流量按套餐周期重置，超额可能限速或暂停至下一周期。多设备请避免重复登录同一会话，必要时在用户中心下线旧设备。</p></details><details><summary>能否用于海外流媒体和国际游戏加速？</summary><p>旗舰版与团队版提供原生流媒体解锁节点，覆盖常见影视平台，实际效果会随目标站点策略变化。游戏方面可选用 IPLC 优化线路降低部分区服延迟。建议先小流量测试再把常用节点固定下来。</p></details><details><summary>订阅泄露或经常连不上怎么办？</summary><p>立刻在用户中心重置订阅链接，并让所有设备重新导入。连不上时可更换节点、关闭冲突代理、核对系统时间，再更新客户端。旗舰与团队用户可走优先工单，说明操作系统、客户端版本和错误提示。</p></details></section><section id=\"ads\"><h2>广告合作</h2><p>本栏用于展示经过筛选的网络服务与云资源信息，不放置诱导下载或来路不明的安装包。合作咨询请通过官网公示渠道联系，拒绝任何违法或仿冒客户端广告。</p></section><section id=\"friends\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">客户端配置笔记</a><a href=\"#\">跨境访问入门</a><a href=\"#\">DNS 与隐私基础</a><a href=\"#\">远程办公清单</a><a href=\"#\">节点测速方法</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><div class=\"sitemap\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#steps\">操作步骤</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告合作</a><a href=\"#friends\">友情链接</a></div><p>次元链接(cylink) 官方网站提供机场订阅、VPN 网络加速与客户端下载说明。请认准官网标识，勿在第三方页面输入账号。</p><p>站点地图与规范页面以本页锚点结构为准。保留对品牌名称、套餐说明与官方下载指引的权利。</p></div></footer>",
+          "hash": "1959a14f2b27706cdb8d8980fae432d8029ab89b7a9d130ced22a9387a0867ca",
+          "seo": {
+            "title": "次元链接(cylink)官网 – VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "次元链接,cylink,次元链接VPN,次元链接机场,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC游戏加速,流媒体解锁",
+            "description": "次元链接(cylink)是面向个人与团队的网络加速服务官网，提供稳定机场订阅、多平台客户端下载以及流媒体与游戏加速支持，助您安全高效访问全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "awvmsww.cn",
+    "host": "p-8ce84e44e1.awvmsww.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "awvmsww.cn",
+      "url": "https://awvmsww.cn/",
+      "label": "ssLinks",
+      "apex": "awvmsww.cn",
+      "kind": null,
+      "identity": "pvrfktq/page-5e2e3ae31a2750f40d1f1fb7"
+    },
+    {
+      "host": "eu2g0c.cn",
+      "url": "https://eu2g0c.cn/",
+      "label": "次元链接(cylink)",
+      "apex": "eu2g0c.cn",
+      "kind": null,
+      "identity": "cevqvv/page-9a923db875e7a51600167de7"
+    },
+    {
+      "host": "ey777.cn",
+      "url": "https://ey777.cn/",
+      "label": "次元链接(cylink)",
+      "apex": "ey777.cn",
+      "kind": null,
+      "identity": "pupnjnqu/page-1364b2cdc0dc85788ad15078"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8b8eb9072a9c043907c90a8de9f7a2e4f15d8aafc3fc96c7e812c18c97b5ae97",
+    "sitemap.xml": "cd0e0316bc1d78515b258cae9d917d08310227514607c930b147f9085388bdc8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6034e5d39c02814ba350d6ed4e5d10811e2806624e90ac9c4283db0a59707edb",
+    "robots.txt": "eab17a0dcbb3fe19409b1910269db1ef349f409a9250d334abb27b5655fbe774",
+    "e1cca87abba840c91a034ea4c953bb09.txt": "b8d1195049240a15b3cfe8012739c7d0acdaf6e6f557be19f7385de04e15fab1"
+  },
+  "revision": "fc17996328f2b0b3f06ae3f2a4a21a35f9ee52b59446a8b11e08bea2aa1e88f6"
+}
